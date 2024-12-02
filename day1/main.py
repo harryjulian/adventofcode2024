@@ -27,6 +27,7 @@ def part_2():
             score += i * lookup
     print(f"The answer to part two is {score}")
 
+
 if __name__ == "__main__":
     part_1()
     part_2()
